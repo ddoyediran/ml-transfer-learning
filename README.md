@@ -2,7 +2,7 @@
 
 This is a demonstration of how to use TensorFlow.js to load a pre-trained base model, specifically MobileNet, to generate image features that can be used in transfer learning.
 
-Gather data from a user's webcam for multiple classes of data that you want to recognize and it create and define a multi-layer perceptron that takes the image features and learns to classify new objects using them.
+This web app can gather data from a user's webcam for multiple classes of data that you want to recognize. It will create and define a multi-layer perceptron that takes the image features and learns to classify new objects using them.
 
 ### How to use
 
