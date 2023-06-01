@@ -10,4 +10,4 @@ You can simply fork and clone this repo `git clone https://github.com/ddoyediran
 
 You don't need to download any dependencies. Open the index.html in your browser with a live server e.g Live Server extension from VS code
 
-Keep an eye on the repo, this app will be deployed soon so you can easily test om your browser without cloning
+Keep an eye on the repo, this app will be deployed soon so you can easily test on your browser without cloning
